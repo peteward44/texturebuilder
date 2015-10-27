@@ -1,0 +1,7 @@
+/*.suo
+/target/*.config
+/target/*.pdb
+/target/*.exe
+/target/*.manifest
+/pwtool_texturebuilder/obj
+/pwtool_texturebuilder/bin

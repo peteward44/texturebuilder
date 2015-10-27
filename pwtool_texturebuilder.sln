@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pwtool_texturebuilder", "pwtool_texturebuilder\pwtool_texturebuilder.csproj", "{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Release|x64.ActiveCfg = Release|Any CPU
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Release|x86.ActiveCfg = Release|x86
+		{118DC505-E97C-4686-BCB8-10E1E6DE9A8F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
